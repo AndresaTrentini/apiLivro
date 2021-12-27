@@ -1,0 +1,39 @@
+.minhaModal{
+  width: 300px;
+  height: 150px;
+  border: solid 1px gray;
+  text-align: center;
+  position: fixed;
+  top: 300px;
+  left: 500px;
+  background-color: honeydew;
+}
+
+.card{
+  width: 300px;
+  height: 430px;
+  float: left;
+  margin: 10px;
+  background-color: rgb(243, 227, 208);
+  border-radius:0px 20px 0px 20px;
+  box-shadow: 5px 5px 5px 3px black;
+
+
+}
+
+.card-img-top{
+  display: flex;
+  margin: 20px auto;
+
+}
+
+button{
+  margin-left: 10px;
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+}
+
+
